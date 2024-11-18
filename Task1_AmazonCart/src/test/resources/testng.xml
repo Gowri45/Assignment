@@ -1,0 +1,7 @@
+<suite name="AmazonCartSuite">
+    <test name="AmazonCartTest">
+        <classes>
+            <class name="tests.AmazonCartTest"/>
+        </classes>
+    </test>
+</suite>
