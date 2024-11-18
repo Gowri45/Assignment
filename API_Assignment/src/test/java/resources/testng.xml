@@ -1,0 +1,7 @@
+<suite name="BookingAPITestSuite">
+    <test name="BookingAPITests">
+        <classes>
+            <class name="tests.BookingApiTest"/>
+        </classes>
+    </test>
+</suite>
